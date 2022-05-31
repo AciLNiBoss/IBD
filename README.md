@@ -1,6 +1,9 @@
 # IBD
 Cloning 2004-2009 dan crack file
+
+
 #MENJALAKAN TOLS#
+
 
 $ pkg update && pkg upgrade
 
@@ -14,10 +17,14 @@ $ pip install requests
 
 $ pip install mechanize
 
-$ git clone https://github.com/AciLNiBoss/V3
+$ pkg install git
 
-$cd V3
+$ git clone https://github.com/AciLNiBoss/IBD
+
+$cd IBD
 
 $git pull
 
 $python run.py
+
+be smart bro cp nikmati

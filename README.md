@@ -1,5 +1,5 @@
 # IBD
-Cloning 2004-2009 dan crack file
+CRACK EFBEH🤣
 
 
 #MENJALAKAN TOLS#
@@ -11,11 +11,13 @@ $ pkg install python
 
 $ pkg install cython
 
-$pip instal bs4
+$pip install bs4
 
 $ pip install requests
 
 $ pip install mechanize
+
+$ pip install tqdm
 
 $ pkg install git
 
@@ -25,6 +27,7 @@ $cd IBD
 
 $git pull
 
-$python run.py
+$python acilft.py
 
-be smart bro cp nikmati
+be smart bro
+Support metode mobile

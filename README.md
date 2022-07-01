@@ -11,13 +11,15 @@ $ pkg install python
 
 $ pkg install cython
 
-$pip install bs4
+$ pip install bs4
 
 $ pip install requests
 
 $ pip install mechanize
 
 $ pip install tqdm
+
+$ pip install rich
 
 $ pkg install git
 
@@ -27,7 +29,7 @@ $cd IBD
 
 $git pull
 
-$python acilft.py
+$python cail.py
 
 be smart bro
 Support metode mobile
